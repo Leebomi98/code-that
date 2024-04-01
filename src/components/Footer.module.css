@@ -1,7 +1,8 @@
 .footer {
   padding: 20px 0 53px;
   color: #878787;
-  background-color: #494949;
+  /* background-color: #494949; */
+  background-color: white;
 }
 
 .links {
